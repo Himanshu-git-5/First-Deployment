@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div>
-      <h1>Hello to Rect </h1>
+      <h1>Hello to React </h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure aliquam repellat quisquam sunt optio modi!</p>
     </div>
   )
